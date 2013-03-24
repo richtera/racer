@@ -12,8 +12,8 @@
     "test": "make test"
   },
   "dependencies": {
-    "socket.io": "0.9.11",
-    "socket.io-client": "0.9.11",
+    "socket.io": "0.9.x",
+    "socket.io-client": "0.9.x",
     "es5-shim": ">=1.2.10",
     "browserify": "1.13.x",
     "uglify-js": "2.x",
